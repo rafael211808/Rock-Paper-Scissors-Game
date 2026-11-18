@@ -2,8 +2,6 @@
 
 An interactive, modern game of **Rock, Paper, Scissors** developed using **HTML5**, **CSS3**, and **vanilla JavaScript**, featuring visual animations with emojis, a persistent scoring system, and advanced capabilities such as an automatic mode and keyboard shortcuts.
 
-Webpage link: https://rafael211808.github.io/rock-paper-scissors-game/
-
 ---
 
 ## 🚀 Features
